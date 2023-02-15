@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub Profile
 
-Innovaive tech professional with 5 years of experience working as a Software Enginner. Capable of working wiht a variety of technology and software solutions and managing databases. Extensive expertise in on-prem server and AWS/ Oracle colud server for application deployment.
+Innovaive tech professional with 5 years of experience working as a Software Enginner. Capable of working wiht a variety of technology and software solutions and managing databases. Extensive expertise in on-prem server and AWS/ Oracle colud server for application deployment. I love to learn new teachnology and tech people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
 
 
 ## Vendor Certifications
