@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub Profile
 
-A brief description of what this project does and who it's for
+Innovaive tech professional with 5 years of experience working as a Software Enginner. Capable of working wiht a variety of technology and software solutions and managing databases. Extensive expertise in on-prem server and AWS/ Oracle colud server for application deployment.
 
 
 ## Vendor Certifications
