@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**faisalcse1/faisalcse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+A brief description of what this project does and who it's for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Vendor Certifications
+
+Microsoft Certified Solution Developer (MCSD): Web
+Developer certificate from Microsoft Corporation.
+Module - 70-486: Developing ASP.NET MVC Web
+Applications.
+
+[Transcript](https://learn.microsoft.com/en-us/users/mdfaisal-5118/transcript/dzm6lh302xk6j2g)
+
+
+## Expertise
+
+* ASP.NET with C# and MVC
+* SQL Server
+* ASP.NET Core
+* ASP.NET Web API
+* JavaScripts
+* Jquery
+* AWS / Plesk / Oracle Cloud / On-premises Server
+
+
+
+
+## 🛠 Skills
+* LinkQ 
+* Entity Framework
+* Data Structure & Algorithm
+* Object Oriented Programming
+* Xamarin
+* Blazor
+* Windows Service Application
+* Windows Forms
+* Asp.Net Web Forms
+* Angular 8
+* React JS
+* MongoDB
+* MySQL
+* Firebase
+* PostgreSQL
+* Redis
+* gRPC
+* Crystal / RDLC Report
+* Power BI
+* SSIS
+* SSRS
+* Git
+
