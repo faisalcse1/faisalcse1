@@ -51,3 +51,9 @@ Applications.
 * SSRS
 * Git
 
+## Links
+[Portfolio](https://faisalcse1.gitlab.io/home/)</br>
+[Facebook](https://www.facebook.com/MD.Faisal.EH) </br>
+[Linkedin](https://www.linkedin.com/in/mdfaisal-2) </br>
+[Twitter](https://twitter.com/faisal63194) </br>
+[Youtube](https://www.youtube.com/c/programmingpalli) </br>
