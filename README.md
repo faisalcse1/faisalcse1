@@ -9,6 +9,13 @@ Additionally, I have worked with cloud platforms such as AWS, Plesk, Oracle Clou
 
 I love to learn new teachnology and tech people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
 
+## Programming Instructor
+I'm a programming enthusiast with a passion for teaching and sharing knowledge. As an experienced trainer, I'm dedicated to helping people learn programming skills and techniques that will enable them to achieve their goals.
+
+Through my programming training, I've helped students of all skill levels gain a deeper understanding of programming languages and tools such as ASP.NET with C#, SQL Server, ASP.NET Core, and JavaScript. My courses cover everything from beginner basics to advanced concepts, and are designed to be engaging, hands-on, and relevant to real-world scenarios.
+
+In addition to my training, I also run a YouTube channel called [Programming Palli](https://www.youtube.com/programmingpalli) where I provide programming tutorials and training videos on a wide range of topics. Whether you're a beginner looking to learn the basics or an experienced programmer looking to expand your knowledge, my programming training and YouTube [channel](https://www.youtube.com/programmingpalli) have something for you.
+Don't forget to connect with me on GitHub and other social media platforms to stay in touch and join the conversation!"
 
 ## Vendor Certifications
 
