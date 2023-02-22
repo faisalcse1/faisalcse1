@@ -15,8 +15,7 @@ I'm a programming enthusiast with a passion for teaching and sharing knowledge. 
 Through my programming training, I've helped students of all skill levels gain a deeper understanding of programming languages and tools such as [ASP.NET with C#](https://www.youtube.com/watch?v=V3Pm9UD-M-w&list=PLqCbg_KAOnCdxfvsTNaVn23uB8fbUiSrL), SQL Server, [ASP.NET Core](https://www.youtube.com/watch?v=FcNVwdSxwxA&list=PLqCbg_KAOnCdRm3FI1EvndnsNNWz_1A5c), and JavaScript. My courses cover everything from beginner basics to advanced concepts, and are designed to be engaging, hands-on, and relevant to real-world scenarios.
 
 In addition to my training, I also run a YouTube channel called [Programming Palli](https://www.youtube.com/programmingpalli) where I provide programming tutorials and training videos on a wide range of topics. Whether you're a beginner looking to learn the basics or an experienced programmer looking to expand your knowledge, my programming training and YouTube [channel](https://www.youtube.com/programmingpalli) have something for you.
-Don't forget to connect with me on GitHub and other social media platforms to stay in touch and join the conversation!"
-
+Don't forget to connect with me on GitHub and other social media platforms to stay in touch.
 ## Vendor Certifications
 
 Microsoft Certified Solution Developer (MCSD): Web
