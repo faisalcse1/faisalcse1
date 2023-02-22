@@ -1,7 +1,13 @@
 
 # Welcome to my GitHub Profile
 
-Innovaive tech professional with 5 years of experience working as a Software Enginner. Capable of working wiht a variety of technology and software solutions and managing databases. Extensive expertise in on-prem server and AWS/ Oracle colud server for application deployment. I love to learn new teachnology and tech people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
+I am an experienced full-stack developer with a passion for building scalable and efficient web applications. With expertise in ASP.NET with C# and MVC, SQL Server, ASP.NET Core, ASP.NET Web API, and JavaScript, I have delivered successful projects for clients across a range of industries.
+
+I am highly skilled in LinkQ, Entity Framework, data structure and algorithms, and object-oriented programming. I also have experience with Xamarin, Blazor, Windows Service Application, Windows Forms, Asp.Net Web Forms, Angular 8, React JS, and various database systems including MongoDB, MySQL, Firebase, PostgreSQL, and Redis.
+
+Additionally, I have worked with cloud platforms such as AWS, Plesk, Oracle Cloud, and on-premises servers, and have expertise in report generation using Crystal/RDLC Report and Power BI. I have experience with source code management using Git and have expertise in ETL processes using SSIS and SSRS.
+
+I love to learn new teachnology and tech people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
 
 
 ## Vendor Certifications
