@@ -7,7 +7,7 @@ I am highly skilled in LinkQ, Entity Framework, data structure and algorithms, a
 
 Additionally, I have worked with cloud platforms such as AWS, Plesk, Oracle Cloud, and on-premises servers, and have expertise in report generation using Crystal/RDLC Report and Power BI. I have experience with source code management using Git and have expertise in ETL processes using SSIS and SSRS.
 
-I love to learn new teachnology and tech people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
+I love to learn new technology and teach people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
 
 ## Programming Instructor
 I'm a programming enthusiast with a passion for teaching and sharing knowledge. As an experienced trainer, I'm dedicated to helping people learn programming skills and techniques that will enable them to achieve their goals.
