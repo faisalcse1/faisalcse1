@@ -5,7 +5,7 @@ I am an experienced full-stack developer with a passion for building scalable an
 
 I am highly skilled in LinkQ, Entity Framework, data structure and algorithms, and object-oriented programming. I also have experience with Xamarin, Blazor, Windows Service Application, Windows Forms, Asp.Net Web Forms, Angular 8, React JS, and various database systems including MongoDB, MySQL, Firebase, PostgreSQL, and Redis.
 
-Additionally, I have worked with cloud platforms such as AWS, Plesk, Oracle Cloud, and on-premises servers, and have expertise in report generation using Crystal/RDLC Report and Power BI. I have experience with source code management using Git and have expertise in ETL processes using SSIS and SSRS.
+Additionally, I have worked with cloud platforms such as AWS, Plesk, Oracle Cloud, and on-premises servers, and have expertise in report generation using Crystal/RDLC Report and Power BI. I have experience with source code management using Git and have expertise in ETL(Extract, Transform, Load) processes using SSIS and SSRS.
 
 I love to learn new technology and teach people throgh my [Programming Palli](https://www.youtube.com/programmingpalli) youtube channel.
 
