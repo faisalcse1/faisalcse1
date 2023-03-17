@@ -40,28 +40,9 @@ Applications.
 
 
 ## 🛠 Skills
-* LinkQ 
-* Entity Framework
-* Data Structure & Algorithm
-* Object Oriented Programming
-* Xamarin
-* Blazor
-* Windows Service Application
-* Windows Forms
-* Asp.Net Web Forms
-* Angular 8
-* React JS
-* MongoDB
-* MySQL
-* Firebase
-* PostgreSQL
-* Redis
-* gRPC
-* Crystal / RDLC Report
-* Power BI
-* SSIS
-* SSRS
-* Git
+* LinkQ | Entity Framework | Data Structure & Algorithm | Object Oriented Programming | Xamarin | Xamarin | Blazor | Windows Service Application | Windows Forms |  Asp.Net Web Forms | gRPC | Angular 8 | React JS | Git
+* MySQL | PostgreSQL | MariaDB | SQLite | Firebase | MongoDB | Redis
+* Crystal / RDLC Report | Power BI | SSRS | SSIS
 
 ## Links
 [Portfolio](https://faisalcse1.gitlab.io/home/)</br>
