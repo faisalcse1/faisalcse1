@@ -40,7 +40,7 @@ Applications.
 
 
 ## 🛠 Skills
-* LinkQ | Entity Framework | Data Structure & Algorithm | Object Oriented Programming | Xamarin | Xamarin | Blazor | Windows Service Application | Windows Forms |  Asp.Net Web Forms | gRPC | Angular 8 | React JS | Git | Jenkins
+* LinkQ | Entity Framework | Data Structure & Algorithm | Object Oriented Programming | Xamarin | Blazor | Windows Service Application | Windows Forms |  Asp.Net Web Forms | gRPC | Angular 8 | React JS | Git | Jenkins
 * MySQL | PostgreSQL | MariaDB | SQLite | Firebase | MongoDB | Redis
 * Crystal / RDLC Report | Power BI | SSRS | SSIS
 
