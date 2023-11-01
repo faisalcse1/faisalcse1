@@ -44,10 +44,11 @@ Applications.
 * MySQL | PostgreSQL | MariaDB | SQLite | Firebase | MongoDB | Redis
 * Crystal / RDLC Report | Power BI | SSRS | SSIS
 
-## Links
-[Portfolio](https://faisalcse1.gitlab.io/home/)</br>
-[Facebook](https://www.facebook.com/MD.Faisal.EH) </br>
-[Linkedin](https://www.linkedin.com/in/mdfaisal-2) </br>
-[Twitter](https://twitter.com/faisal63194) </br>
-[Youtube](https://www.youtube.com/c/programmingpalli) </br>
-[Gitlab](https://gitlab.com/faisalcse1)
+## Get in Touch
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=aboutdotme&logoColor=white)](https://faisalcse1.gitlab.io/home) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfaisal-2) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/faisal63194)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/MD.Faisal.EH)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/programmingpalli)
+[![YouTube](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/faisalcse1)
+
